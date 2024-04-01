@@ -5,7 +5,7 @@
 $menu_atas = [
     'home' => 'Home',
     'produk' => 'Produk',
-    'pesan' => 'Pesan',
+    'pesanan' => 'pesanan',
     'galeri' => 'Galeri',
     'gesbuk' => 'Gesbuk'
 ];
@@ -14,7 +14,7 @@ $menu_atas = [
 $menu_bawah = [
     'home' => 'home.php',
     'produk' => 'produk.php',
-    'pesan' => 'pesan.php',
+    'pesanan' => 'pesanan.php',
     'galeri' => 'galeri.php',
     'gesbuk' => 'gesbuk.php'
 ];
