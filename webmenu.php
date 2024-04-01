@@ -7,7 +7,7 @@ $menu_atas = [
     'produk' => 'Produk',
     'pesanan' => 'pesanan',
     'galeri' => 'Galeri',
-    'gesbuk' => 'Gesbuk'
+    'kontak' => 'kontak'
 ];
 
 //menu untuk di bagian bawah (isi.php)
@@ -16,6 +16,6 @@ $menu_bawah = [
     'produk' => 'produk.php',
     'pesanan' => 'pesanan.php',
     'galeri' => 'galeri.php',
-    'gesbuk' => 'gesbuk.php'
+    'kontak' => 'kontak.php'
 ];
 ?>
